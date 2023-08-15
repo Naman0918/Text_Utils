@@ -1,4 +1,4 @@
-# Welcome to TEXTUTILS React App.
+# Welcome to TEXTUTILS React App.Where you can change lower case to upper case and copy the text.
 
 # Getting Started with Create React App
 
